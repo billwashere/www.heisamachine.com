@@ -79,11 +79,7 @@ const perspectiveOrigin = {
   maxGap: 10
 };
 
-const s = [{title:"William Claydon",content:[`Business Intelligence Reporting Analyst
-Koonawarra, NSW, 2530,
-Australia
-0431068105
-will@heisamachine.com`]}, {title:"SKILLS - Databases",content:["Microsoft SQL Server", "MySQL",  "Sybase ASE", "PostgreSQL"]},{title:"SKILLS - Programming Languages ", content:["HTML", "Java", "Javascript", "SQL"]},
+const s = [{title:"SKILLS - Databases",content:["Microsoft SQL Server", "MySQL",  "Sybase ASE", "PostgreSQL"]},{title:"SKILLS - Programming Languages ", content:["HTML", "Java", "Javascript", "SQL"]},
 {title:"EXPERIENCE - GBST Holdings PTY Ltd, Wollongong - Business Intelligence Reporting Analyst 2017 - Present",content:[`					
 
 Design and implement a bespoke Resource Management using SQL Server,Excel,and VBA macros
@@ -111,7 +107,7 @@ content:[
 title:"EXPERIENCE - Big W, Dapto  - Recovery Associate 2008 - 2010",
 content:[`The assisting of customers with enquires`, 
 `Restocking and cleaning shelves`]},{title:"CERTIFICATION - AXELOS - PRINCE2 Agile® Practitioner 2019",content:[`
-This certificate combines the flexibility and responsiveness of agile with PRINCE2 Project management solution. (Verification via https://www.youracclaim.com/badges/70d5d08a-c9c4-4998-aa32-5beea15e4c61/linked_in_profile)`]}
+This certificate combines the flexibility and responsiveness of agile with PRINCE2 Project management solution.`]}
 ,{title:"EDUCATION",content:[`
 University of Wollongong, Wollongong - Bachelor of Computer Science
 2011-2013`]}
