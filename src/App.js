@@ -34,10 +34,10 @@ class App extends Component {
     <a href="https://www.linkedin.com/in/william-claydon-25101853" target="_blank" rel="noopener noreferrer">Linkdin Profile</a>
     </p>
   <p>
-    <a href="https://github.com/billwashere/www.heisamachine.com" target="_blank" rel="noopener noreferrer">Want to see the website source? It's written in React and Redux</a>
+    <a href="https://github.com/billwashere/www.heisamachine.com" target="_blank" rel="noopener noreferrer">Want to see the website source? It's written in React and Redux!</a>
     </p>
     <p>
-    <a href="https://www.freecodecamp.org/news/css-3d-scrolling-on-the-z-axis-92503c3ecf3f/" target="_blank" rel="noopener noreferrer">Disclaimer: much of the Vincent Humeau freecodecamp Article</a>
+    <a href="https://www.freecodecamp.org/news/css-3d-scrolling-on-the-z-axis-92503c3ecf3f/" target="_blank" rel="noopener noreferrer">Disclaimer: This effect was taken from Vincent Humeau freecodecamp Article.</a>
     </p>
 </div>
                 
