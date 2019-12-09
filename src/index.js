@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { render } from 'react-snapshot'
 import { Provider } from 'react-redux'
 import { createStore, applyMiddleware } from 'redux'
 import rootReducer from './reducers'
@@ -114,7 +114,7 @@ University of Wollongong, Wollongong - Bachelor of Computer Science
 ]
 
 
-ReactDOM.render(
+render(
   <Provider store={store}>
     <App cards={s} />
   </Provider>,
