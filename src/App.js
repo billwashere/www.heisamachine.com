@@ -31,7 +31,7 @@ class App extends Component {
   </p>
 </p>
 <p>
-    <a href="https://www.linkedin.com/in/william-claydon-25101853" target="_blank" rel="noopener noreferrer">Linkdin Profile</a>
+    <a href="https://www.linkedin.com/in/william-claydon-25101853" target="_blank" rel="noopener noreferrer">Linkedin Profile</a>
     </p>
   <p>
     <a href="https://github.com/billwashere/www.heisamachine.com" target="_blank" rel="noopener noreferrer">Want to see the website source? It's written in React and Redux!</a>
